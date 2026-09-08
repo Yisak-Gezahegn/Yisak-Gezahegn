@@ -19,10 +19,6 @@
     </a>
   </p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Yisak-Gezahegn&color=2188ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  </p>
-
 </div>
 
 ---
