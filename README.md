@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[YOUR_GIF_URL_HERE](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajV5aHNiM2x3b2VpbWcyaGk4dzdhMTdqbTZmcXk5dTR3Nzg5ZXoxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ov9jNziFTMfzSumAw/giphy.gif)" width="150" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajV5aHNiM2x3b2VpbWcyaGk4dzdhMTdqbTZmcXk5dTR3Nzg5ZXoxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ov9jNziFTMfzSumAw/giphy.gif" width="150" />
 
   <!-- Animated Sticker / Banner Image -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z3eXZ1OWd3Ymw3YmRxcWV1ZnRqYms1Z3RsbDV2d3N5OWp2Ym0yZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3N3y8E5wUlsA/giphy.gif" width="160px" alt="Coding GIF" />
