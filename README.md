@@ -1,38 +1,47 @@
 <div align="center">
 
+  <a href="https://github.com/Yisak-Gezahegn">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Yisak+Gezahegn;Full+Stack+Web+Developer;CS+%26+Management+Student;Building+Scalable+Digital+Solutions" alt="Typing Header" />
+  </a>
 
-  <!-- Animated Sticker / Banner Image -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajV5aHNiM2x3b2VpbWcyaGk4dzdhMTdqbTZmcXk5dTR3Nzg5ZXoxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ov9jNziFTMfzSumAw/giphy.gif" width="150" />
+  <br /><br />
 
-  <h1>Yisak Gezahegn</h1>
-  <h3>Full Stack Developer & Computer Science Student</h3>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z3eXZ1OWd3Ymw3YmRxcWV1ZnRqYms1Z3RsbDV2d3N5OWp2Ym0yZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3N3y8E5wUlsA/giphy.gif" width="130" alt="Coding GIF" />
+
+  <h3>Crafting robust web systems, database architectures & modern software solutions</h3>
 
   <p>
-    <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="yisakgezahegnmamo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:yisakgezahegnmamo@gmail.com">
+      <img src="https://img.shields.io/badge/Email-yisakgezahegnmamo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/Yisak-Gezahegn">
+      <img src="https://img.shields.io/badge/GitHub-Yisak--Gezahegn-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Yisak-Gezahegn&color=2188ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
 </div>
 
-<hr />
+---
 
-## About Me
+### 👨‍💻 About Me
 
-I am a software developer and computer science student passionate about building responsive web applications, interactive software systems, and modern digital solutions.
+I am a **Computer Science and Management student at Haramaya University** based in Ethiopia. I specialize in building responsive, scalable full-stack web applications, relational database architectures, and interactive 3D simulations.
 
-- 🔭 **Currently working on:** Web platforms and modern UI applications
-- 💻 **Tech Stack:** JavaScript, TypeScript, PHP, React, Next.js, C++
-- ⚡ **Goal:** Building impactful technology products for businesses and communities
+* 🔭 **Current Focus:** Engineering multi-tiered management portals, digital charity systems, and optimized full-stack architectures.
+* 🎓 **Academic Background:** Dual specialization in Computer Science & Management.
+* 🛠️ **Systems & Hardware:** Experienced with PostgreSQL, MySQL, Dockerized workflows, embedded C/Arduino logic, and 3D graphics rendering in C++/OpenGL.
+* 🎯 **Career Goal:** To deliver clean, maintainable, high-impact digital products while driving community-focused technological initiatives.
 
-<hr />
+---
 
-## 🛠 Tech & Tools
+### 🚀 Key Technical Focus
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,cpp,mysql,postgres,git" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,php,cpp,mysql,postgres,git,vscode" />
-</p>
-
-
+```text
+  [ Frontend Development ]  ---> React, Next.js, TypeScript, Tailwind CSS, JavaFX
+  [ Backend & Databases ]   ---> PHP (PDO), Node.js, MySQL, PostgreSQL, Schema Design
+  [ Graphics & Embedded ]   ---> C++ / OpenGL, Arduino / PIC Microcontrollers, C
+  [ DevOps & Security ]     ---> Git, GitHub Actions, Vercel, Session/Cookie Security
