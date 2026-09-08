@@ -6,7 +6,7 @@
 
   <br /><br />
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z3eXZ1OWd3Ymw3YmRxcWV1ZnRqYms1Z3RsbDV2d3N5OWp2Ym0yZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3N3y8E5wUlsA/giphy.gif" width="130" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajV5aHNiM2x3b2VpbWcyaGk4dzdhMTdqbTZmcXk5dTR3Nzg5ZXoxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ov9jNziFTMfzSumAw/giphy.gif" width="130" alt="Coding GIF" />
 
   <h3>Crafting robust web systems, database architectures & modern software solutions</h3>
 
@@ -37,17 +37,53 @@ I am a **Computer Science and Management student at Haramaya University** based 
 * 🎯 **Career Goal:** To deliver clean, maintainable, high-impact digital products while driving community-focused technological initiatives.
 
 ---
+<!-- Modern Tech Stack & Focus Cards -->
+<div align="center">
 
-### 🚀 Key Technical Focus
+  <h2>🚀 Technical Expertise</h2>
 
-```text
-  [ Frontend Development ]  ---> React, Next.js, TypeScript, Tailwind CSS, JavaFX
-  [ Backend & Databases ]   ---> PHP (PDO), Node.js, MySQL, PostgreSQL, Schema Design
-  [ Graphics & Embedded ]   ---> C++ / OpenGL, Arduino / PIC Microcontrollers, C
-  [ DevOps & Security ]     ---> Git, GitHub Actions, Vercel, Session/Cookie Security
+  <!-- 2x2 Grid Layout for Technical Focus -->
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h4 align="center">🎨 Frontend & UI Systems</h4>
+        <p align="center">
+          <code>React</code> • <code>Next.js</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>JavaFX</code>
+        </p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" height="40" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h4 align="center">⚙️ Backend & Architecture</h4>
+        <p align="center">
+          <code>PHP (PDO)</code> • <code>Node.js</code> • <code>MySQL</code> • <code>PostgreSQL</code> • <code>REST APIs</code>
+        </p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=php,mysql,postgres,nodejs,express&theme=dark" height="40" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h4 align="center">🕹️ Systems, Graphics & Hardware</h4>
+        <p align="center">
+          <code>C++ / OpenGL</code> • <code>Arduino</code> • <code>PIC Microcontrollers</code> • <code>C</code>
+        </p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=cpp,c,arduino,visualstudio&theme=dark" height="40" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h4 align="center">🛡️ DevOps, Tools & Security</h4>
+        <p align="center">
+          <code>Git Workflow</code> • <code>Vercel</code> • <code>Session Security</code> • <code>Linux</code>
+        </p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,linux&theme=dark" height="40" />
+        </p>
+      </td>
+    </tr>
+  </table>
 
-🛠️ Domain,Technologies & Tools
-Frontend & UI,"<img src=""https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap"" height=""30"" />"
-Backend & DB,"<img src=""https://skillicons.dev/icons?i=php,mysql,postgres,nodejs"" height=""30"" />"
-Systems & C++,"<img src=""https://skillicons.dev/icons?i=cpp,c,arduino"" height=""30"" />"
-Tools & Cloud,"<img src=""https://skillicons.dev/icons?i=git,github,vscode,vercel,figma"" height=""30"" />"
+</div>
