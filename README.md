@@ -45,3 +45,9 @@ I am a **Computer Science and Management student at Haramaya University** based 
   [ Backend & Databases ]   ---> PHP (PDO), Node.js, MySQL, PostgreSQL, Schema Design
   [ Graphics & Embedded ]   ---> C++ / OpenGL, Arduino / PIC Microcontrollers, C
   [ DevOps & Security ]     ---> Git, GitHub Actions, Vercel, Session/Cookie Security
+
+🛠️ Domain,Technologies & Tools
+Frontend & UI,"<img src=""https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap"" height=""30"" />"
+Backend & DB,"<img src=""https://skillicons.dev/icons?i=php,mysql,postgres,nodejs"" height=""30"" />"
+Systems & C++,"<img src=""https://skillicons.dev/icons?i=cpp,c,arduino"" height=""30"" />"
+Tools & Cloud,"<img src=""https://skillicons.dev/icons?i=git,github,vscode,vercel,figma"" height=""30"" />"
