@@ -38,6 +38,4 @@ I am a software developer and computer science student passionate about building
   <img src="https://github-readme-stats.vercel.app/api?username=Yisak-Gezahegn&show_icons=true&theme=dark" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yisak-Gezahegn&layout=compact&theme=dark" height="165" />
 </div>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yisak-Gezahegn&color=blue&style=flat-square" alt="Profile Views" />
-</p>
+
